@@ -1,6 +1,10 @@
 # Gmail-Gemini
 Transforms the ways you read emails with Gemini
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/HikVSo_nPa0)](https://youtu.be/HikVSo_nPa0)
+
+
+## Example
 * Original email
 ![Video](video/gmail-original.webm)
 
@@ -13,6 +17,7 @@ The objective of this application is not only to reduce daily workload, but also
 
 With Gmail Gemini, now managing your inbox becomes a quick and efficient task, enhancing your productivity and freeing time for what really matters.
 
+## Build
 1. Move the **"./src"** folder files to an environment in **Scripts Apps**
 2. Configure your **Gemini** token in "gemini.gs"
 ![alt text](img/image-1.png)
