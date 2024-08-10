@@ -1,6 +1,12 @@
 # Gmail-Gemini
 Transforms the ways you read emails with Gemini
 
+* Original email
+![Video](video/gmail-original.webm)
+
+* Resumen email
+![resumen](img/imagen-3.png)
+
 The application uses Gemini API to transform the way you manage your emails. With it, you can generate automated summaries and organize emails in specific categories, such as work, finance, and personal, all with an approach to flexibility and ease.
 
 The objective of this application is not only to reduce daily workload, but also ensure that no important email is lost among digital noise.
